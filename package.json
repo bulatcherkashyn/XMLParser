@@ -1,0 +1,17 @@
+{
+  "name": "xml-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml-stream": "^0.4.5"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
